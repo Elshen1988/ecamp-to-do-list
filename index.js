@@ -53,6 +53,7 @@ alert("boş göndərməyin")
         ul3.style.display = "block"
         ul2.style.display = "none"
         ul1.style.display = "none"
+        ul.style.display = "none"
 
     }
     button2.onclick = function () {
