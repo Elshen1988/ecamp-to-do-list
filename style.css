@@ -194,3 +194,10 @@ body {
 .ul3 li button{
     display: none;
 }
+.TO_DO{
+    width: 200px;
+    height: 70px;
+    color: white;
+    font-weight: 900;
+    font-size: 30px;
+}
